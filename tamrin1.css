@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(200, 224, 246);
+}
+
+
+
+
+form{
+    background-color: whitesmoke;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    width: 24%;
+    height: 470px;
+    /* text-align: center; */
+    margin-left: 37%;
+    margin-top: 80px;
+}
+
+.container{
+    position: relative;
+    margin-top: 20px;
+}
+
+
+.div1{
+    position: absolute;
+    left: 30px;
+    bottom: 0px;
+    
+}
+
+.div2{
+    position: absolute;
+    left: 190px;
+    bottom: 0px;
+}
+
+.input1 , .input2{
+    width:140px;
+    border-radius: 5px;
+    border-color: whitesmoke;
+}
+.login{
+    color: rgb(58, 107, 241) ;
+}
+
+
+.submit{
+    color: white;
+    background-color:rgb(58, 107, 241) ;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    height: 35px;
+    margin-top: 20px;
+}
+.sub{
+    margin-top: 20px;
+    margin-left: 92px ;
+    font-size: 14px;
+}
+
+

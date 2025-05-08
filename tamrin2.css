@@ -1,0 +1,154 @@
+
+body{
+    background-color: whitesmoke;
+    margin: 0%;
+    padding: 0%;
+}
+
+.img1{
+    margin-left: 630px;
+}
+
+
+.ul1{
+    background-color: rgb(38, 162, 38);
+    border-radius: 3px;
+    /* padding: 0px;
+    margin: 0px; */
+    text-align: center;
+    width: 95%;
+    margin-left: 27px;
+    
+
+}
+
+.ul1 li{
+    display: inline-block;
+    text-align: center;
+    padding: 13px;
+}
+
+.ul1 li a{
+    text-decoration: none;
+    color: white;
+}
+
+.ul1 li:hover{
+    background-color: green;
+    
+
+}
+.line1{
+    background-color: rgb(38, 162, 38) ;
+    height: 2px;
+    margin: 0px;
+    padding: 0px;
+}
+
+main{
+    background-color: white;
+    width: 85%;
+    height: 480px;
+    margin-left: 110px;
+    margin-top: 30px;
+    border-radius: 3px;
+}
+
+.h2{
+    text-align: center;
+    color:rgb(38, 162, 38) ;
+    padding-top: 20px;
+}
+
+.line2{
+    height: 1px;
+    width: 95%;
+    margin-left: 27px;
+    background-color: rgb(224, 223, 223);
+}
+
+.container{
+    position: relative;
+}
+
+.div1 , .div2 {
+    position: absolute;
+}
+
+.div1 .img2{
+ height: 260px;
+ width: 400px;
+   
+}
+
+.div1{
+    top: 25px;
+    right: 850px;
+}
+
+.div2{
+    width: 60%;
+    left: 470px;
+}
+
+.button{
+    margin-top: 350px;
+    margin-left: 600px;
+    
+}
+
+.button a{
+    text-decoration: none;
+    background-color: rgb(38, 162, 38);
+    color: white;
+    padding: 12px;
+    border-radius: 3px;
+}
+
+.button a:hover{
+    background-color: green;
+}
+
+footer{
+    background-color: rgb(55, 55, 55);
+    margin-bottom: 0px;
+    padding: 0px;
+    height: 130px;
+}
+
+.p1{
+    color: white;
+    margin-left: 610px;
+    padding-top: 20px;
+}
+
+.ul2{
+    
+    list-style: none;
+    margin-left: 520px;
+    margin-left: 540px;
+   
+}
+
+.ul2 li{
+    display: inline-block;
+    font-size: 15px;
+    
+}
+
+.ul2 a{
+    text-decoration: none;
+    color: rgb(179, 177, 177);
+    padding: 8px;
+   
+}
+
+.ul2 a:hover{
+    background-color: black;
+}
+
+.p2{
+    color: rgb(179, 177, 177);
+    font-size: 14px;
+    text-align: center;
+}
